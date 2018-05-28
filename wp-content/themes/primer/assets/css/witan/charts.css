@@ -1,0 +1,18 @@
+.mobile_overlay{
+	display: none !important;
+}
+.autogen_class_views_embeds_new_toolbar{
+	display: none !important;
+}
+
+.autogen_class_views_layouts_new_embed ,
+.autogen_class_views_layouts_legacy_web 
+.autogen_class_views_layouts_web ,
+.autogen_class_widgets_page ,
+.autogen_class_widgets_base{
+	background-color: transparent !important;
+}
+
+.document_scroller{
+	left: -60px !important;
+}

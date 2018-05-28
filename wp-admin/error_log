@@ -1,0 +1,28 @@
+[05-Apr-2018 12:26:31 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/malarnirunivya78/public_html/WitanWorld/wordpress/wp-content/themes/primer/functions.php on line 622
+[05-Apr-2018 12:26:35 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/malarnirunivya78/public_html/WitanWorld/wordpress/wp-content/themes/primer/functions.php on line 622
+[05-Apr-2018 12:26:35 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/malarnirunivya78/public_html/WitanWorld/wordpress/wp-content/themes/primer/functions.php on line 622
+[05-Apr-2018 12:26:43 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/malarnirunivya78/public_html/WitanWorld/wordpress/wp-content/themes/primer/functions.php on line 622
+[05-Apr-2018 12:27:16 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/malarnirunivya78/public_html/WitanWorld/wordpress/wp-content/themes/primer/functions.php on line 622
+[05-Apr-2018 12:27:40 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/malarnirunivya78/public_html/WitanWorld/wordpress/wp-content/themes/primer/functions.php on line 622
+[05-Apr-2018 12:27:45 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/malarnirunivya78/public_html/WitanWorld/wordpress/wp-content/themes/primer/functions.php on line 622
+[05-Apr-2018 12:27:49 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/malarnirunivya78/public_html/WitanWorld/wordpress/wp-content/themes/primer/functions.php on line 622
+[17-Apr-2018 19:20:04 UTC] PHP Warning:  file_get_contents(http://www.hoveron.net/WitanWorld/wordpress/wp-content/plugins/newsplugin/logs/plugin-logs.txt): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/malarnirunivya78/public_html/WitanWorld/wordpress/wp-content/plugins/newsplugin/news-plugin.php on line 792
+[02-May-2018 01:43:17 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/malarnirunivya78/public_html/WitanWorld/wordpress/wp-content/themes/primer/functions.php on line 837
+[02-May-2018 01:43:22 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/malarnirunivya78/public_html/WitanWorld/wordpress/wp-content/themes/primer/functions.php on line 837
+[02-May-2018 01:43:31 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/malarnirunivya78/public_html/WitanWorld/wordpress/wp-content/themes/primer/functions.php on line 837
+[04-May-2018 02:56:53 UTC] PHP Parse error:  syntax error, unexpected '$chart_data' (T_VARIABLE) in /home/malarnirunivya78/public_html/WitanWorld/wordpress/wp-content/themes/primer/functions.php on line 858
+[04-May-2018 02:56:54 UTC] PHP Parse error:  syntax error, unexpected '$chart_data' (T_VARIABLE) in /home/malarnirunivya78/public_html/WitanWorld/wordpress/wp-content/themes/primer/functions.php on line 858
+[04-May-2018 02:56:54 UTC] PHP Parse error:  syntax error, unexpected '$chart_data' (T_VARIABLE) in /home/malarnirunivya78/public_html/WitanWorld/wordpress/wp-content/themes/primer/functions.php on line 858
+[04-May-2018 02:57:08 UTC] PHP Parse error:  syntax error, unexpected '$chart_data' (T_VARIABLE) in /home/malarnirunivya78/public_html/WitanWorld/wordpress/wp-content/themes/primer/functions.php on line 858
+[07-May-2018 03:27:06 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/malarnirunivya78/public_html/WitanWorld/wordpress/wp-content/themes/primer/functions.php on line 649
+[07-May-2018 03:27:21 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/malarnirunivya78/public_html/WitanWorld/wordpress/wp-content/themes/primer/functions.php on line 649
+[07-May-2018 03:29:21 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/malarnirunivya78/public_html/WitanWorld/wordpress/wp-content/themes/primer/functions.php on line 649
+[07-May-2018 03:31:21 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/malarnirunivya78/public_html/WitanWorld/wordpress/wp-content/themes/primer/functions.php on line 649
+[07-May-2018 03:50:54 UTC] PHP Fatal error:  Call to a member function the_letters() on null in /home/malarnirunivya78/public_html/WitanWorld/wordpress/wp-content/plugins/a-z-listing/a-z-listing.php on line 22
+[07-May-2018 03:51:09 UTC] PHP Fatal error:  Call to a member function the_letters() on null in /home/malarnirunivya78/public_html/WitanWorld/wordpress/wp-content/plugins/a-z-listing/a-z-listing.php on line 22
+[07-May-2018 03:51:24 UTC] PHP Fatal error:  Call to a member function the_letters() on null in /home/malarnirunivya78/public_html/WitanWorld/wordpress/wp-content/plugins/a-z-listing/a-z-listing.php on line 22
+[07-May-2018 03:51:40 UTC] PHP Fatal error:  Call to a member function the_letters() on null in /home/malarnirunivya78/public_html/WitanWorld/wordpress/wp-content/plugins/a-z-listing/a-z-listing.php on line 22
+[09-May-2018 13:00:16 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/malarnirunivya78/public_html/WitanWorld/wordpress/wp-content/themes/primer/functions.php on line 1052
+[09-May-2018 13:00:44 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/malarnirunivya78/public_html/WitanWorld/wordpress/wp-content/themes/primer/functions.php on line 1052
+[09-May-2018 13:01:15 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/malarnirunivya78/public_html/WitanWorld/wordpress/wp-content/themes/primer/functions.php on line 1052

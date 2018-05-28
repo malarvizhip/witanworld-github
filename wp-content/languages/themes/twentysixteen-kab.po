@@ -1,0 +1,332 @@
+# Translation of Themes - Twenty Sixteen in Kabyle
+# This file is distributed under the same license as the Themes - Twenty Sixteen package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-02-11 19:08:03+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: kab_DZ\n"
+"Project-Id-Version: Themes - Twenty Sixteen\n"
+
+#. Theme Name of the plugin/theme
+msgid "Twenty Sixteen"
+msgstr "Twenty Sixteen"
+
+#. Description of the plugin/theme
+msgid "Twenty Sixteen is a modernized take on an ever-popular WordPress layout — the horizontal masthead with an optional right sidebar that works perfectly for blogs and websites. It has custom color options with beautiful default color schemes, a harmonious fluid grid using a mobile-first approach, and impeccable polish in every detail. Twenty Sixteen will make your WordPress look beautiful everywhere."
+msgstr ""
+"make your WordPress look beautiful everywhere.\n"
+"Twenty Sixteen d talɣa tatrart n tmuddemt n WordPress : Inixef aglawan aked tfeggagt n yidis taxetṛant, i ywulmen ama i iblugen ama i isemlen. Yesɛa aṭas n textiṛiyin n yiniten aked tegrummiwin n yiniten n lexṣas icebḥen aṭas, yesɛa daɣen tasuddest  s tracca tamengant  tanmilant i yeseqdacen anekmar \"mobile-first\". S Twenty Sixteen ad tgeḍ asmel n WordPress iggerzen yerna di merra tignatin."
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:184 template-parts/content.php:28
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "Ḍfer taɣuri n<span class=\"screen-reader-text\"> \"%s\"</span>"
+
+#. translators: %s: Name of current post
+#: image.php:84 template-parts/content-page.php:37
+#: template-parts/content-search.php:28 template-parts/content-search.php:43
+#: template-parts/content-single.php:45 template-parts/content.php:49
+msgid "Edit<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "Ẓreg<span class=\"screen-reader-text\"> \"%s\"</span>"
+
+#: inc/customizer.php:283
+msgid "Red"
+msgstr "Azeggaɣ"
+
+#. translators: %s: post title
+#: comments.php:31
+msgctxt "comments title"
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "Tidmi ɣef &ldquo;%s&rdquo;"
+
+#: searchform.php:16
+msgctxt "submit button"
+msgid "Search"
+msgstr "Anadi"
+
+#: searchform.php:14
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr "Anadi &hellip;"
+
+#: searchform.php:13
+msgctxt "label"
+msgid "Search for:"
+msgstr "Nadi ɣef :"
+
+#: footer.php:28
+msgid "Footer Social Links Menu"
+msgstr "Umuɣ n izdayen n iẓeḍwan imettiyen n uḍar n usebtar"
+
+#: footer.php:17
+msgid "Footer Primary Menu"
+msgstr "Umuɣ agejdan n uḍar n usebtar"
+
+#: functions.php:158
+msgid "Add widgets here to appear in your sidebar."
+msgstr "Rnu iwidgeten dagi iwakken ad ttwabeqqeḍen di tfeggagt n yidis."
+
+#: template-parts/content.php:14
+msgid "Featured"
+msgstr "Ɣer sdat"
+
+#: template-parts/content-none.php:28
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Yettban-d amzum akken ayen tettnadiḍ ulac-it. Eɛreḍ s unadi."
+
+#: template-parts/content-none.php:23
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Surfaɣ, ulac acu i yenmeɣran aked yirmawen n unadi-inek. Ttxil-k eɛreḍ s wawalen-nniḍen."
+
+#: template-parts/content-none.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Twejdeḍ iwakken ad d-tsuffeɣeḍ amagrad-inek amezwaru ? <a href=\"%1$s\">Bdu dagi</a>."
+
+#: template-parts/content-none.php:13
+msgid "Nothing Found"
+msgstr "Ulac acu d-nufa"
+
+#: template-parts/biography.php:33
+msgid "View all posts by %s"
+msgstr "Beqqeḍ akk imagraden sɣur %s"
+
+#: template-parts/biography.php:28
+msgid "Author:"
+msgstr "Ameskar:"
+
+#: single.php:38
+msgid "Previous post:"
+msgstr "Amagrad uzwir :"
+
+#: single.php:37
+msgid "Previous"
+msgstr "Uzwir"
+
+#: single.php:35
+msgid "Next post:"
+msgstr "Amagrad uḍfir :"
+
+#: single.php:34
+msgid "Next"
+msgstr "Uḍfir"
+
+#: search.php:18
+msgid "Search Results for: %s"
+msgstr "Igmaḍ n unadi ɣef : %s"
+
+#: inc/template-tags.php:106
+msgctxt "Used before tag names."
+msgid "Tags"
+msgstr "Tibzimin"
+
+#: inc/template-tags.php:98
+msgctxt "Used before category names."
+msgid "Categories"
+msgstr "Taggayin"
+
+#: inc/template-tags.php:95 inc/template-tags.php:103
+msgctxt "Used between list items, there is a space after the comma."
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:79
+msgctxt "Used before publish date."
+msgid "Posted on"
+msgstr "Yeffeɣ-d di"
+
+#: inc/template-tags.php:38
+msgctxt "Used before post format."
+msgid "Format"
+msgstr "Amasal"
+
+#: inc/template-tags.php:50
+msgid "Leave a comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "Aru awennit<span class=\"screen-reader-text\"> ɣef %s</span>"
+
+#: inc/template-tags.php:25
+msgctxt "Used before post author name."
+msgid "Author"
+msgstr "Ameskar"
+
+#: inc/customizer.php:293
+msgid "Yellow"
+msgstr "Awraɣ"
+
+#: inc/customizer.php:273
+msgid "Gray"
+msgstr "Ademdam"
+
+#: inc/customizer.php:263
+msgid "Dark"
+msgstr "Aɣmayan"
+
+#: inc/customizer.php:172
+msgid "Main Text Color"
+msgstr "Ini n uḍris agejdan"
+
+#: inc/customizer.php:253
+msgid "Default"
+msgstr "Lexṣas"
+
+#: inc/customizer.php:184
+msgid "Secondary Text Color"
+msgstr "Ini asenay n uḍris"
+
+#: inc/customizer.php:160
+msgid "Link Color"
+msgstr "Ini n izdayen"
+
+#: inc/customizer.php:145
+msgid "Page Background Color"
+msgstr "Ini n ugilal n usebtar"
+
+#: image.php:102 single.php:29
+msgctxt "Parent post link"
+msgid "<span class=\"meta-nav\">Published in</span><span class=\"post-title\">%title</span>"
+msgstr "<span class=\"meta-nav\">Yeffeɣ-d di</span><span class=\"post-title\">%title</span>"
+
+#: inc/back-compat.php:41 inc/back-compat.php:53 inc/back-compat.php:68
+msgid "Twenty Sixteen requires at least WordPress version 4.4. You are running version %s. Please upgrade and try again."
+msgstr "Twenty Sixteen iteddu ḥaca di WordPress 4.4 d asawen. Ala tseqdaceḍ lqemm %s. Ttxil-k mucceḍ sakin eɛreḍ tikkelt-nniḍen."
+
+#: inc/customizer.php:130
+msgid "Base Color Scheme"
+msgstr "Tagrumma n yiniten n uzadur"
+
+#: image.php:73
+msgctxt "Used before full size attachment link."
+msgid "Full size"
+msgstr "Tiddi tilawt"
+
+#: image.php:56 template-parts/content-page.php:23
+#: template-parts/content-single.php:25 template-parts/content.php:33
+msgid "Pages:"
+msgstr "Isebtar:"
+
+#: image.php:25
+msgid "Next Image"
+msgstr "Tugna tuḍfirt"
+
+#: image.php:24
+msgid "Previous Image"
+msgstr "Tugna tuzwirt"
+
+#: header.php:47
+msgid "Menu"
+msgstr "Umuɣ"
+
+#: header.php:27
+msgid "Skip to content"
+msgstr "Ngez ɣer ugbur agejdan"
+
+#: functions.php:284
+msgid "expand child menu"
+msgstr "Ldi umuɣ anadaw"
+
+#: functions.php:285
+msgid "collapse child menu"
+msgstr "Mdel umuɣ anadaw"
+
+#. translators: If there are characters in your language that are not supported
+#. by Inconsolata, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:213
+msgctxt "Inconsolata font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:166
+msgid "Content Bottom 1"
+msgstr "Agbur n wadda 1"
+
+#: functions.php:168 functions.php:178
+msgid "Appears at the bottom of the content on posts and pages."
+msgstr "Ad yettwabeqeḍ di tama n wadda n ugbur n imagraden aked isebtar."
+
+#: functions.php:176
+msgid "Content Bottom 2"
+msgstr "Agbur n wadda 2"
+
+#. translators: If there are characters in your language that are not supported
+#. by Merriweather, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:203
+msgctxt "Merriweather font: on or off"
+msgid "on"
+msgstr "on"
+
+#. translators: If there are characters in your language that are not supported
+#. by Montserrat, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:208
+msgctxt "Montserrat font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:156
+msgid "Sidebar"
+msgstr "Tafeggagt n yidis"
+
+#: functions.php:89 header.php:62
+msgid "Social Links Menu"
+msgstr "Umuɣ n izdayen n iẓeḍwan imettiyen"
+
+#: functions.php:88 header.php:51
+msgid "Primary Menu"
+msgstr "Umuɣ agejdan"
+
+#: footer.php:51
+msgid "Proudly powered by %s"
+msgstr "S tfenṭazit i yettwadegger s %s"
+
+#: comments.php:69
+msgid "Comments are closed."
+msgstr "Iwenniten medlen."
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:35
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s n tedmi ɣef &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s n tedmiwin ɣef &ldquo;%2$s&rdquo;"
+
+#: archive.php:51 image.php:60 index.php:48 search.php:39
+#: template-parts/content-page.php:27 template-parts/content-single.php:29
+#: template-parts/content.php:37
+msgid "Page"
+msgstr "Asebtar"
+
+#: archive.php:50 index.php:47 search.php:38
+msgid "Next page"
+msgstr "Asebtar uḍfir"
+
+#: archive.php:49 index.php:46 search.php:37
+msgid "Previous page"
+msgstr "Asebtar uzwir"
+
+#: 404.php:21
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Atan am wakken ulac acu yellan di tansa-agi. Ad tɛreḍeḍ s unadi ?"
+
+#: 404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Ihuh&nbsp;! Asebtar-agi ulac-it."
+
+#. Theme URI of the plugin/theme
+msgid "https://wordpress.org/themes/twentysixteen/"
+msgstr "https://wordpress.org/themes/twentysixteen/"
+
+#. Author of the plugin/theme
+msgid "the WordPress team"
+msgstr "tarbaɛt n WordPress"
+
+#. #-#-#-#-#  twentysixteen.pot (Twenty Sixteen 1.4)  #-#-#-#-#
+#. Author URI of the plugin/theme
+#: footer.php:51
+msgid "https://wordpress.org/"
+msgstr "https://wordpress.org/"

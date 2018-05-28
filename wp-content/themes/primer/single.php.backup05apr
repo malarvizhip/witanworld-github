@@ -1,0 +1,64 @@
+<?php
+/**
+ * The template for displaying all single posts.
+ *
+ * @link https://developer.wordpress.org/themes/basics/template-hierarchy/#single-post
+ *
+ * @package Primer
+ * @since   1.0.0
+ */
+
+get_header(); ?>
+
+<div id="primary" class="content-area">
+
+	<main id="main" class="site-main" role="main">
+
+	<?php while ( have_posts() ) : the_post(); ?>
+
+		<div style="width:70%; float:left; padding-right: 2%">
+
+			<?php get_template_part( 'content' ); ?>
+
+			<div style="margin: 0 0 1.5em;padding: 2.5em 3.375em;">
+				<p><strong>Solutions:</strong></p>
+				<p><?php the_field('solution'); ?></p>
+				<p><strong>Proceedures:</strong></p>
+				<p><?php the_field('proceedures'); ?></p>
+			</div>
+		</div>
+		<div style="width: 30%;float: left;margin-top: 150px;">
+			<?php 
+			$image = get_field('market_indicator');
+			if( !empty($image) ): ?>
+				<p><strong>Market Indicator:</strong></p>
+				<img src="<?php echo $image['url']; ?>" alt="<?php echo $image['alt']; ?>" />
+			<?php endif; ?>
+
+			<?php 
+			$image = get_field('product_indicator');
+			if( !empty($image) ): ?>
+				<p><strong>Product Indicator:</strong></p>
+				<img src="<?php echo $image['url']; ?>" alt="<?php echo $image['alt']; ?>" />
+			<?php endif; ?>
+		</div>
+
+		<?php primer_post_nav(); ?>
+
+		<?php if ( comments_open() || get_comments_number() ) : ?>
+
+			<?php comments_template(); ?>
+
+		<?php endif; ?>
+
+	<?php endwhile; ?>
+
+	</main><!-- #main -->
+
+</div><!-- #primary -->
+
+<?php get_sidebar(); ?>
+
+<?php get_sidebar( 'tertiary' ); ?>
+
+<?php get_footer(); ?>
